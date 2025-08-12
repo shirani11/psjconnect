@@ -1,0 +1,17 @@
+
+.hiandiconimg {
+    filter: invert(100%);
+    padding-top: 20px;
+    width: 35px;
+    height: 55px;
+    outline: none;
+    box-shadow: none;
+    justify-content: center; /* add missing semicolon */
+    border-radius: 50%; /* optional, for round images */
+}
+
+    h3{
+        text-align: left;
+    }
+
+
